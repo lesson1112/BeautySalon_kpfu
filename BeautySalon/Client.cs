@@ -7,7 +7,7 @@ public class Client
     public string Phone { get; }
 
    
-    private List<(Service service, DateTime time)> bookings = new();
+    private List<(Service service, DateTime time)> bookings = new();//
 
     public Client(string name, string phone)
     {
