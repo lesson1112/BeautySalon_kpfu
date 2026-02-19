@@ -12,7 +12,7 @@ public class Master
         Name = name;
     }
 
-    public bool AddBooking(DateTime time)
+    public bool AddBooking(DateTime time)//
     {
         foreach (var booked in bookings)
         {
