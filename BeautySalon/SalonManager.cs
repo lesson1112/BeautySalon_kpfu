@@ -9,7 +9,7 @@ public class SalonManager
 
     public SalonManager()
     {
-        services.Add(new Service(1, "Стрижка", 1500, 60));
+        services.Add(new Service(1, "Стрижка", 1500, 60));//
         services.Add(new Service(2, "Окрашивание", 3000, 120));
         services.Add(new Service(3, "Маникюр", 800, 45));
 
