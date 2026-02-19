@@ -14,7 +14,7 @@ public class SalonManager
         services.Add(new Service(3, "Маникюр", 800, 45));
 
         masters.Add(new Master("Анна"));
-        masters.Add(new Master("Мария"));
+        masters.Add(new Master("Мария"));//
     }
 
     public List<Service> GetAllServices() => services;
