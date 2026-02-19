@@ -14,7 +14,7 @@ public class SalonMenu
             Console.WriteLine("1. Посмотреть услуги");
             Console.WriteLine("2. Запись клиента");
             Console.WriteLine("3. Статистика клиентов");
-            Console.WriteLine("4. Добавить услугу");
+            Console.WriteLine("4. Добавить услугу");//
             Console.WriteLine("5. Посмотреть расписание");
             Console.WriteLine("6. Выход");
             Console.Write("Выберите: ");
