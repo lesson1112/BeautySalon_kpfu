@@ -13,7 +13,7 @@ public class SalonManager
         services.Add(new Service(2, "Окрашивание", 3000, 120));
         services.Add(new Service(3, "Маникюр", 800, 45));
 
-        masters.Add(new Master("Анна"));
+        masters.Add(new Master("Анна"));//
         masters.Add(new Master("Мария"));//
     }
 
